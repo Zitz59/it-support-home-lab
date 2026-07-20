@@ -1,15 +1,15 @@
 # INC-0004 — PC running slowly, caused by critically low free space on system drive
 
-| Field | Value |
-|---|---|
-| **Ticket ID** | INC-0004 |
-| **Date opened** | 2026-XX-XX |
-| **Date resolved** | 2026-XX-XX |
-| **Priority** | Medium |
+| Field | Value                  |
+|---|------------------------|
+| **Ticket ID** | INC-0004               |
+| **Date opened** | 2026-07-18             |
+| **Date resolved** | 2026-07-18             |
+| **Priority** | Medium                 |
 | **Category** | Software / Performance |
-| **Affected system** | Windows-Lab |
-| **Status** | Resolved |
-| **Time to resolve** | ~10 min |
+| **Affected system** | Windows-Lab            |
+| **Status** | Resolved               |
+| **Time to resolve** | ~10 min                |
 
 ## Summary
 
