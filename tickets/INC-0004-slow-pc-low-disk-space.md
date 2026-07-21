@@ -7,7 +7,6 @@
 | **Date opened** | 2026-07-18 |
 | **Date resolved** | 2026-07-18|
 | **Priority** | Medium |
-
 | **Category** | Software / Performance |
 | **Affected system** | Windows-Lab            |
 | **Status** | Resolved               |
