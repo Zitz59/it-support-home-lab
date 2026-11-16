@@ -31,7 +31,7 @@ Hands-on IT support practice environment I built and maintain to develop real He
 
 ## Why this exists
 
-Coming from several years of customer-facing support work, I'm transitioning into IT support and believe the best way to learn is to break things, fix them, and write down how. This repo is my public logbook of that process.
+I'm transitioning into IT support and believe the best way to learn is to break things, fix them, and write down how. This repo is my public logbook of that process.
 
 Currently completing CompTIA/Google IT Support fundamentals and the IBM Technical Support curriculum.
 
